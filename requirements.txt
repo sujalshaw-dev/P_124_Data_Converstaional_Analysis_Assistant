@@ -1,0 +1,17 @@
+# Conversational Data Analysis Assistant - Dependencies
+# Core Data and Analysis
+pandas>=2.2.0
+numpy>=1.26.0
+
+# User Interface and Visualization
+streamlit>=1.38.0
+plotly>=5.24.0
+
+# LLM Providers and API Clients
+google-genai>=1.0.0
+requests>=2.32.0
+python-dotenv>=1.0.1
+pydantic>=2.10.0
+
+# Testing & Quality Assurance
+pytest>=8.0.0

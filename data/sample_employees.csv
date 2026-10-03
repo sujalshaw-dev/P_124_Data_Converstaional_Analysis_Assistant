@@ -1,0 +1,52 @@
+Employee_ID,Name,Department,Role,Salary,Experience_Years,Age,City,Performance_Score,Joining_Date
+101,Rahul Sharma,Engineering,Senior Software Engineer,95000,7,30,Bangalore,4.5,2019-03-15
+102,Priya Patel,Marketing,Marketing Lead,82000,6,29,Mumbai,4.2,2020-07-01
+103,Amit Verma,Sales,Sales Manager,78000,5,28,Delhi,3.9,2021-01-10
+104,Sneha Kulkarni,Human Resources,HR Specialist,62000,4,26,Pune,4.1,2022-04-18
+105,Vikram Singh,Finance,Financial Analyst,88000,8,33,Bangalore,4.6,2018-11-05
+106,Ananya Roy,Product,Product Manager,105000,9,34,Hyderabad,4.8,2017-06-20
+107,Rohan Gupta,Engineering,DevOps Engineer,89000,5,28,Bangalore,4.0,2021-09-12
+108,Meera Iyer,Sales,Sales Representative,54000,2,24,Chennai,3.8,2023-02-01
+109,Karan Johar,Marketing,Content Strategist,67000,4,27,Mumbai,,2022-08-15
+110,Pooja Hegde,Engineering,Frontend Developer,75000,3,25,Hyderabad,4.3,2023-01-15
+111,Siddharth Nair,Finance,Senior Financial Analyst,98000,9,35,Mumbai,4.7,2017-03-10
+112,Neha Reddy,Product,Associate Product Manager,72000,3,26,Bangalore,3.9,2022-11-01
+113,Deepak Joshi,Engineering,Data Scientist,112000,8,32,Bangalore,4.9,2018-05-14
+114,Kavita Rao,Human Resources,Talent Acquisition Lead,74000,6,31,Delhi,4.0,2020-02-25
+115,Arjun Kapoor,Sales,Sales Executive,58000,3,25,Pune,3.7,2022-06-30
+116,Divya Menon,Engineering,QA Lead,81000,6,30,Chennai,4.2,2020-10-12
+117,Manish Choudhary,Finance,Accountant,60000,4,28,Delhi,3.8,2021-05-20
+118,Sunita Das,Operations,Operations Specialist,64000,5,29,Kolkata,4.1,2021-08-14
+119,Naveen Kumar,Engineering,Backend Developer,86000,5,28,Bangalore,4.4,2021-04-10
+120,Aarti Mehta,Marketing,SEO Specialist,61000,3,26,Mumbai,3.9,2022-12-05
+121,Rishi Mukherjee,Sales,Regional Sales Director,135000,12,39,Delhi,4.8,2014-07-22
+122,Tanvi Saxena,Human Resources,HR Executive,52000,2,24,Bangalore,,2023-05-11
+123,Gaurav Bhatt,Engineering,Principal Architect,155000,14,41,Bangalore,4.9,2013-09-01
+124,Shweta Tiwari,Operations,Supply Chain Manager,92000,8,33,Hyderabad,4.3,2018-12-10
+125,Akash Malhotra,Finance,Controller,128000,11,38,Mumbai,4.7,2015-04-18
+126,Tarun Deshmukh,Engineering,Data Engineer,94000,6,29,Pune,4.2,2020-09-08
+127,Preeti Sen,Marketing,Growth Lead,87000,7,31,Delhi,4.4,2019-08-01
+128,Varun Chawla,Sales,Account Executive,63000,3,26,Bangalore,3.8,2022-03-14
+129,Simran Kaur,Product,UX Researcher,76000,4,27,Gurgaon,4.1,2021-10-05
+130,Alok Dubey,Engineering,Security Engineer,99000,7,31,Hyderabad,4.5,2019-11-20
+131,Bhavna Trivedi,Finance,Tax Consultant,71000,5,29,Mumbai,4.0,2021-02-17
+132,Nikhil Jain,Operations,Logistics Coordinator,59000,3,25,Delhi,3.7,2022-07-19
+133,Swati Pillai,Human Resources,People Ops Manager,85000,8,32,Bangalore,4.5,2018-08-12
+134,Harsh Vardhan,Engineering,Full Stack Developer,83000,4,27,Pune,4.3,2022-01-10
+135,Pallavi Bose,Marketing,Brand Strategist,79000,6,30,Kolkata,,2020-04-01
+136,Rajesh Goel,Sales,Sales Manager,82000,6,31,Hyderabad,4.0,2020-06-15
+137,Kritika Pandey,Product,Senior Product Manager,120000,10,36,Bangalore,4.8,2016-10-24
+138,Vijay Raghavan,Engineering,Cloud Specialist,102000,8,33,Chennai,4.6,2018-01-15
+139,Isha Agarwal,Finance,Treasury Analyst,77000,5,28,Delhi,4.1,2021-09-01
+140,Sanjay Rawat,Operations,Facilities Lead,65000,6,32,Pune,3.9,2020-11-28
+141,Monika Shah,Marketing,Digital Marketing Manager,88000,7,31,Mumbai,4.3,2019-05-16
+142,Aditya Prakash,Engineering,Machine Learning Engineer,118000,8,32,Bangalore,4.8,2018-09-03
+143,Ritu Saini,Sales,Key Account Lead,91000,7,32,Delhi,4.2,2019-12-01
+144,Kunal Grover,Human Resources,HR Analyst,67000,4,27,Hyderabad,4.0,2022-03-22
+145,Smita Nambiar,Operations,Procurement Manager,86000,7,33,Bangalore,4.2,2019-07-11
+146,Pradeep Chauhan,Finance,Senior Accountant,80000,6,30,Gurgaon,4.1,2020-08-20
+147,Zoya Akhtar,Product,Product Designer,84000,5,28,Mumbai,4.4,2021-06-10
+148,Mohit Sethi,Engineering,Site Reliability Engineer,93000,6,29,Bangalore,4.3,2020-05-18
+149,Anil Kaushik,Sales,Sales Executive,57000,2,24,Pune,3.6,2023-04-01
+150,Geeta Ramaswamy,Operations,Operations Director,142000,13,40,Chennai,4.9,2013-11-15
+150,Geeta Ramaswamy,Operations,Operations Director,142000,13,40,Chennai,4.9,2013-11-15
